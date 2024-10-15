@@ -1,0 +1,95 @@
+
+body{
+    min-height: 100vh;
+    
+}
+.container-lg{
+  background-color: #5f9ea0;
+  border-radius: 5px;
+}
+.left-side{
+    background-color: #5f9ea0;
+    padding: 10px;
+}
+.right-side{
+    position: relative;
+    background: #fff;
+    padding: 40px;
+}
+.profile-text{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-bottom: 5px solid #ffdab9;
+}
+.contact-info{
+    padding-top: 20px;
+}
+.contact-info h3 {
+    color:#ffdab9;
+    text-transform: uppercase;
+}
+.contact-info ul li {
+    list-style: circle;
+}
+.contact-info ul li .icon{
+    display: inline-block;
+    width: 20px;
+    font-size: 20px;
+    color:#f5deb3;
+}
+img {
+ width: 275px;
+ align-items: center;
+ border-radius: 15px;
+ overflow: hidden;
+ position: relative;
+ margin-bottom: 20px;
+ 
+}
+h2 {
+    color: #ffdab9;
+    font-size: 1.5rem;
+    margin-top: 5px;
+    text-transform: capitalize;
+    text-align: start;
+}
+.container2{
+    background-color:#ffdab9 ;
+}
+.right-side{
+    padding: 10px;
+    background-color: #ffdab9;
+}
+.about{
+    margin-bottom: 5px;
+    padding: 5px;
+}
+.about:last-child {
+margin-bottom: 0;
+margin: 15px;
+}
+.title{
+    color: #5f9ea0;
+    text-transform: uppercase; 
+}
+.about h5{
+color: #5f9ea0;
+text-align: left;
+font-size: large;
+}
+.line
+{
+ border-color: #5f9ea0; 
+ border-width: 3px;
+}
+.paragraph-h
+{
+    font-style: normal;
+    color:black;
+    font-weight: 500;
+}
+.title2{
+    color:#5f9ea0 ;
+}
